@@ -14,3 +14,6 @@ I'm a DevOps Engineer and Software Developer passionate about automation and clo
 - 📫 You can [contact me](mailto:noibiabdulrasaq@rocketmail.com) for collaboration opportunities or questions.
 
 ---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olixc&show_icons=true&include_all_commits=true&hide_border=true" alt="olixpin's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olixpin&langs_count=8&layout=compact&hide_border=true" alt="Olixpin's GitHub stats" /> |
+| ------------- | ------------- |
